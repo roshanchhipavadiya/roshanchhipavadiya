@@ -16,7 +16,7 @@ Extensive experience in using **Flutter** to create **robust applications** that
 Committed to **optimizing app performance** and conducting **thorough testing** and **debugging** to ensure high-quality releases.  
 
 ### ✅ API Integration & State Management  
-Skilled in integrating various APIs, including **REST** and **SOAP**, and proficient in managing app state through **GetX**,**MobX** and **BLoC**.  
+Skilled in integrating various APIs, including **REST** and **SOAP**, and proficient in managing app state through **GetX**, **MobX** and **BLoC**.  
 
 ---
 
